@@ -47,8 +47,8 @@ La aplicación estará disponible en `http://localhost:8080`
 
 ## Credenciales de Acceso
 
-- Usuario: `user`
-- Contraseña: `user`
+- Usuario: 
+- Contraseña:
 
 ## Documentación de la API
 
